@@ -1,5 +1,5 @@
 # Introduction
-This is a 2D Platformer game named "xxx".  
+This is a 2D Platformer game named <b>"xxx"</b>.  
 To create a game I used the built-in language "GDScript", which is used in "Godot Engine".  
 It's a simple platformer, where u need to collect coins and kill different enemies.   
 <a href="https://godotengine.org/"><img src="icon.svg" width="500"> </a>
@@ -9,16 +9,16 @@ When u open the game, your eyes will see a beautiful menu, where u have 4 option
 
 ***
 
-- New Game  
+- <b>New Game</b>  
 After when u press "NEW GAME", u have a choice to pick one of five characters which one u want to play.  
 Depending on which character color you choose, this is the skill color your character will have.
 <img src="Characters.png" width="500">  
-- Continue  
+- <b>Continue</b>  
 If you press "CONTINUE" your game will load at the last checkpoint.
-- Options  
+- <b>Options</b>  
 On the options menu, you can change the volume of music, SFX, window resolution and language.  
 <img src="Options.png" width="500">  
-- Quit  
+- <b>Quit</b>   
 After press "QUIT" your game will end.  
 ### Skills
 <ul>
