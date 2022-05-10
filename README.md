@@ -4,6 +4,5 @@ To create a game I used the built-in language "GDScript", which is used in "Godo
 <a href="https://godotengine.org/"><img src="icon.svg" width="500"> </a>
 ***
 ## About Game
-***
 When u open the game, your eyes will see a beautiful menu  
 <img src="Menu.png" width="500">
