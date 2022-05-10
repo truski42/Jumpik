@@ -13,13 +13,17 @@ When u open the game, your eyes will see a beautiful menu, where u have 4 option
 After when u press "NEW GAME", u have a choice to pick one of five characters which one u want to play.  
 Depending on which character color you choose, this is the skill color your character will have.
 <img src="Characters.png" width="500">  
+
 - <b>Continue</b>    
-If you press "CONTINUE" your game will load at the last checkpoint.
+If you press "CONTINUE" your game will load at the last checkpoint.  
+
 - <b>Options</b>   
 On the options menu, you can change the volume of music, SFX, window resolution and language.  
 <img src="Options.png" width="500">  
+
 - <b>Quit</b>   
 After press "QUIT" your game will end.  
+
 ### Skills
 <ul>
     <li>Level 1
