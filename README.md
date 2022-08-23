@@ -1,5 +1,5 @@
 # Introduction
-This is a 2D Platformer game named <b>"xxx"</b>.  
+This is a 2D Platformer game named <b>"Jumpik"</b>.  
 To create a game I used the built-in language "GDScript", which is used in "Godot Engine".  
 It's a simple platformer, where u need to collect coins and kill different enemies.   
 <a href="https://godotengine.org/"><img src="icon.svg" width="500"> </a>
